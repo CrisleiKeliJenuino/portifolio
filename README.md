@@ -25,22 +25,4 @@ Objetivo: mostrar minhas habilidades iniciais em desenvolvimento web e minha ded
 
 [🌐 Abrir Portfólio](https://github.com/CrisleiKeliJenuino/portifolio)  
 
----
-
-## 📚 Sobre mim
-
-- 👩‍🎓 Estudante de **Rede de Computadores e BTI**  
-- 💻 Aprendizado contínuo com cursos online (Alura, Oracle Next Education, Rocketseat…)  
-- 🎯 Foco em transformar conhecimento em oportunidades  
-- 🙋‍♀️ Aos 38 anos, firme estudando e evoluindo  
-
----
-
-## 📫 Contato
-
-- [LinkedIn](https://www.linkedin.com/in/crislei-jenuino-b3407734a/)  
-- [YouTube](https://www.youtube.com/@Crisleikeli)  
-- [Instagram](https://www.instagram.com/crisleikeli?igsh=d241ZmsybjRlNGww)  
-
----
 
