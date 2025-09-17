@@ -23,6 +23,6 @@ Objetivo: mostrar minhas habilidades iniciais em desenvolvimento web e minha ded
 
 ## 🚀 Visualize online
 
-[🌐 Abrir Portfólio]([https://github.com/CrisleiKeliJenuino/portifolio](https://portifolio-khaki-omega-18.vercel.app/))  
+[💻 Ver Portfólio](https://portifolio-khaki-omega-18.vercel.app/)
 
 
